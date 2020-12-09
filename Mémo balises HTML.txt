@@ -1,0 +1,17 @@
+<p></p> = écrire une phrase
+<title></title> = titre
+<b></b> = écrire en gras
+<i></i> = italique
+<h1></h1> = titre en taille grosse
+<h2></h2> = titre en moins gros
+
+px = pixels
+margin = marges
+padding = marges internes
+border = bordures
+
+https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Flexible_Box_Layout/Concepts_de_base_flexbox
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://flexboxfroggy.com/
+https://flexboxzombies.com/p/flexbox-zombies
+
