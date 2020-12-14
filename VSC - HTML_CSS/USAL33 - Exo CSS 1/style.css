@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: bold;
+  }
+/* Sélectionner la classe parent */
+.parent {
+    width: 500px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px;
+    background-color: orange;
+    border: 5px solid green;
+}
+/* Sélectionner la classe child */
+.child {
+    background-color: lightyellow;
+}
+/* Sélectionner la classe child-1 */
+.child-1 {
+    margin-bottom: 30px;
+}
+/* Sélectionner la classe child-2 */
+.child-2 {
+    margin-left: -30px;
+    margin-right: 30px;
+}

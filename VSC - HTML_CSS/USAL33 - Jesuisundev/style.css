@@ -1,0 +1,14 @@
+.body {
+    background-color: whitesmoke;
+    border-color: whitesmoke;
+    width: 1000px;
+    margin: auto;
+}
+.img {
+    display: block;
+    margin: auto;
+}
+
+.p1 {
+    color: #a0a0a0;
+}
