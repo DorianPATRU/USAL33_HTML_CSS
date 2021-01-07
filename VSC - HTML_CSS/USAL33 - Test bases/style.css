@@ -1,0 +1,65 @@
+body {
+    height: 100vh;
+    background: no-repeat url(https://picsum.photos/id/876/1400/1800?blur);
+    background-size: cover;
+    background-position: bottom center;
+    background-attachment: fixed;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .header {
+    color: #fff;
+    text-align: center;
+    margin-top: 68px;
+  }
+  
+  .header__title {
+    text-transform: uppercase;
+    margin-bottom: 0;
+    font-size: 48px;
+    line-height: 1;
+  }
+  
+  .header__subtitle {
+    margin-top: 0;
+    font-size: 20px;
+    font-weight: 300;
+  }
+  
+  .main {
+    max-width: 1000px;
+    margin: auto;
+    background-color: #fff;
+    box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.75);
+  }
+  
+  .footer {
+    color: #bbb;
+    text-align: center;
+  }
+
+  .main .intro {
+    margin-bottom: 0;
+    height: 400px;
+    background-color: #fff;
+  }
+
+  .main .gallery {
+    margin-bottom: 0;
+    height: 400px;
+    background-color: #1e1f23;
+    color: white;
+  }
+  
+  .main .spotlight {
+    margin-top: 0;
+    height: 400px;
+    background-color: lightgrey;
+  }
+
+  .main .intro {
+    background: url(https://picsum.photos/id/1044/2000/700);
+    height: 100px;
+    margin-top: 0;
+  }
+
