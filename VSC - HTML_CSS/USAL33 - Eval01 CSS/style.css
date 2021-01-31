@@ -1,0 +1,102 @@
+body {
+    background-color:  #fbf7f0;
+}
+
+header {
+    text-align: center;
+    text-decoration: 0;
+    font-family: 'Open Sans', sans-serif;
+    word-spacing: 3px;
+    color: #383937;
+}
+
+.ligne-verticale {
+    color: grey;
+    position: relative;
+}
+
+.bloc1 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.title1 {
+    position: relative;
+    left: 150px;
+    top: 110px;
+    font-size: 50px;
+}
+
+.title2 {
+    position: relative;
+    left: 150px;
+    top: 60px;
+    font-size: 50px;
+}
+
+.text1 {
+    position: relative;
+    left: 150px;
+    top: 60px;
+}
+
+.text2 {
+    position: relative;
+    left: 150px;
+    top: 45px;
+}
+
+.text3 {
+    position: relative;
+    left: 150px;
+    top: 30px;
+}
+
+.button {
+    background-color:  #2e302e;
+    color: white;
+    border-radius: 10px;
+    height: 50px;
+    position: relative;
+    left: 150px;
+    top: 0px;
+    width: 200px;
+    font-size: 20px;
+}
+.deadpool {
+    width: 350px;
+    background-color: #b05a58;
+    position: relative;
+    right: -900px;
+    top: -350px;
+    border-radius: 20px;
+    height: 350px;
+}
+
+.title3 {
+    position: relative;
+    left: 150px;
+    top: 110px;
+    font-size: 50px;
+    font-family: 'Open-sans', sans-serif;
+}
+
+.spiderman {
+    width: 350px;
+    background-color:  #073466;
+    position: relative;
+    left: 200px;
+    top: 150px;
+    border-radius: 20px;
+    height: 350px;
+}
+
+.hulk {
+    width: 350px;
+    background-color:  #638346;
+    position: relative;
+    right: -500px;
+    top: 150px;
+    border-radius: 20px;
+    height: 350px;
+}
+
