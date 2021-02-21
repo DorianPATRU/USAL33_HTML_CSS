@@ -88,6 +88,7 @@ header {
     top: 150px;
     border-radius: 20px;
     height: 350px;
+    object-fit: contain;
 }
 
 .hulk {
@@ -98,5 +99,16 @@ header {
     top: 150px;
     border-radius: 20px;
     height: 350px;
+    object-fit: contain;
+}
+
+.diamond {
+    position: relative;
+    width: 800px;
+    height: 800px;
+    top: -540px;
+    right: 400px;
+    opacity: 0.1;
+    z-index: -1;
 }
 
