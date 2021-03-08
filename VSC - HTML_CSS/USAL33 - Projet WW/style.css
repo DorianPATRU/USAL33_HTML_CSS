@@ -1,0 +1,49 @@
+body {
+    background: #1ba11a url(./images/tile.png) top left repeat;
+    font-family: Comic Sans,Comic Sans MS,cursive;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: white;
+    font-family: times,helvetic,sans-serif;
+    text-align: center;
+    font-size: 100px;
+    margin: 0;
+    margin-right: 30px;
+    padding-top: 30px;
+}
+
+.yellow-title {
+    color: #fff54f;
+    text-align: center;
+    font-size: 40px;
+    margin: 10px;
+    margin-left: 40px;
+    margin-bottom: -15px;
+}
+
+.first-line {
+    display: flex;
+    justify-content: center;
+}
+
+.second-line {
+    display: flex;
+    justify-content: center;
+}
+
+.third-line {
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+}
+
+.text-bloc1 {
+    color: #fff54f;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
