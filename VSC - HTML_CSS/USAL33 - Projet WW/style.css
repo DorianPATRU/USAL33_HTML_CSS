@@ -32,6 +32,7 @@ h1 {
 .second-line {
     display: flex;
     justify-content: center;
+    align-items: flex-start;
 }
 
 .third-line {
@@ -42,8 +43,79 @@ h1 {
 
 .text-bloc1 {
     color: #fff54f;
-    text-align: center;
+    text-align: justify;
     font-size: 25px;
     font-weight: bold;
+    margin-left: 350px;
+    margin-right: 350px;
 }
 
+.small-text1 {
+    color: #fff54f;
+    text-align: justify;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+.two-pictures {
+    margin-left: 420px;
+    margin-right: 160px;
+}
+
+.white-bloc1 {
+    color: white;
+    text-align: justify;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+.white-bloc2 {
+    color: white;
+    text-align: justify;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+.white-bloc3 {
+    color: white;
+    text-align: justify;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+.white-bloc4 {
+    color: white;
+    text-align: justify;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+.rubbons .small-yellow1 {
+    color: #fff54f;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 10px;
+}
+
+.rubbons .rubbon-left {
+    margin-left: 400px;
+    margin-right: 350px;
+}
+
+.rubbons .rubbon-right {
+    margin-left: 130px;
+    margin-right: 350px;
+}
