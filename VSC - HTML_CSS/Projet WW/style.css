@@ -119,3 +119,51 @@ h1 {
     margin-left: 130px;
     margin-right: 350px;
 }
+
+.rubbons .small-yellow2 {
+    color: #fff54f;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 10px;
+}
+
+.rubbons .small-yellow3 {
+    color: #ffe107;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 10px;
+}
+
+.banniere {
+    display: flex;
+    justify-content: center;
+}
+
+.bouton-donate {
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+}
+
+.bloc-noir {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    height: 180px;
+    margin-left: 340px;
+    margin-right: 340px;
+}
+
+.bloc-noir .ligne1 {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+
